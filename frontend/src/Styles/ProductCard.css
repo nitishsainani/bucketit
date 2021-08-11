@@ -1,0 +1,13 @@
+.product-desc {
+  width: 581px;
+  height: 182px;
+  padding: 24px;
+}
+.upvote-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 12px;
+  width: 102px;
+  height: 40px;
+}

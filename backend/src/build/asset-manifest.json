@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c11d3799.chunk.css",
+    "main.js": "./static/js/main.601dc4fc.chunk.js",
+    "main.js.map": "./static/js/main.601dc4fc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.210873ca.js",
+    "runtime-main.js.map": "./static/js/runtime-main.210873ca.js.map",
+    "static/js/2.843563de.chunk.js": "./static/js/2.843563de.chunk.js",
+    "static/js/2.843563de.chunk.js.map": "./static/js/2.843563de.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.c11d3799.chunk.css.map": "./static/css/main.c11d3799.chunk.css.map",
+    "static/js/2.843563de.chunk.js.LICENSE.txt": "./static/js/2.843563de.chunk.js.LICENSE.txt",
+    "static/media/Bucket.02777a1a.svg": "./static/media/Bucket.02777a1a.svg",
+    "static/media/BucketPrimary.7f1b82f5.svg": "./static/media/BucketPrimary.7f1b82f5.svg",
+    "static/media/Comment.bb2b40df.svg": "./static/media/Comment.bb2b40df.svg",
+    "static/media/Download.cd1fd029.svg": "./static/media/Download.cd1fd029.svg",
+    "static/media/DownloadSecondary.1fb8715f.svg": "./static/media/DownloadSecondary.1fb8715f.svg",
+    "static/media/Upvote.70daf280.svg": "./static/media/Upvote.70daf280.svg",
+    "static/media/UpvoteBlue.e8b0d2f2.svg": "./static/media/UpvoteBlue.e8b0d2f2.svg",
+    "static/media/Upvoteprimary.dd022963.svg": "./static/media/Upvoteprimary.dd022963.svg",
+    "static/media/company_logo.7b3a82fb.png": "./static/media/company_logo.7b3a82fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.210873ca.js",
+    "static/js/2.843563de.chunk.js",
+    "static/css/main.c11d3799.chunk.css",
+    "static/js/main.601dc4fc.chunk.js"
+  ]
+}

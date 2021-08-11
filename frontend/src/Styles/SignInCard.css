@@ -1,0 +1,52 @@
+.login-form {
+  justify-content: center;
+  min-height: 900px;
+  min-width: 500px;
+}
+.product-form {
+  justify-content: center;
+  width: 464px;
+}
+.register-form {
+  justify-content: center;
+  min-height: 900px;
+  min-width: 500px;
+  max-width: 500px;
+}
+.product-review {
+  justify-content: left;
+  min-height: 900px;
+  min-width: 500px;
+  max-width: 500px;
+}
+.button-block {
+  width: 100%;
+}
+
+.login-background {
+  justify-content: center;
+  padding: 20px 40px;
+}
+.fixed-notification {
+  max-width: 40vh;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  border-width: 20px;
+  border-color: blue;
+  padding: 5px 10px;
+}
+.register {
+  margin: 10px;
+  padding: 10px;
+}
+.link {
+  text-decoration: none;
+}
+.align-box {
+  width: 50%;
+}
+.text-link {
+  color: inherit;
+  text-decoration: none;
+}
